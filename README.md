@@ -1,5 +1,5 @@
 Hi, I’m Camille!  
- I’m interested in data vizualization & general problem solving!
+ I’m interested in solving problems using data.
  Welcome!
 
 
