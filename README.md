@@ -1,6 +1,6 @@
 # Hi, I’m Camille! 🌻 🌱
  I’m interested in solving problems using data.<br />
- Committed to continual learning & self-improvement 📚<br />
+ Committed to continual learning & self-improvement. 📚<br />
  Welcome!
 
 ## Linked-in
