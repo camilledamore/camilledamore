@@ -1,5 +1,5 @@
 # Hi, I’m Camille! 🌻 🌱
- I’m interested in solving problems using data.<br />
+ Passionate about using data to solve problems and make informed decisions!<br />
  Committed to continual learning & self-improvement. 📚<br />
  Welcome!
 
