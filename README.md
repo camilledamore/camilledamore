@@ -1,4 +1,4 @@
-# Hi, I’m Camille! 🌻 🌱
+# Hi, I’m Camille! 🌻 
  Passionate about using data to solve problems and make informed decisions!<br />
  Committed to continual learning & self-improvement. 📚<br />
  Welcome!
