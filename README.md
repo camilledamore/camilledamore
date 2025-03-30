@@ -1,6 +1,6 @@
 # Hello! ✿
 
-Currently working with @jesseplusplus to build [frequency.app](frequency.app) : <br>
+Currently working with @jesseplusplus to build [frequency.app](https://frequency.app) : <br>
 a decentralized social media platform that values transparency, data privacy, and mental well-being.  
 <br>
 <Br>
@@ -16,7 +16,7 @@ I hope you’ll come check out what we’re up to!
 Other than that, <br>
 currently:
 - trying to bike every street in my city,
-- building a silly web 2.0-style site for a vintage mountain bike shop (@ [boomboombikeroom.com](boomboombikeroom.com) !),
+- building a silly web 2.0-style site for a vintage mountain bike shop (@ [boomboombikeroom.com](https://boomboombikeroom.com) !),
 - helping non-tech-savvy people learn how to use their computers,
 - designing fun flyers for local events & businesses,
 - watching every tom hanks movie, 
