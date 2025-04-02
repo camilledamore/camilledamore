@@ -15,11 +15,10 @@ I hope you’ll come check out what we’re up to!
 
 Other than that, <br>
 currently:
-- trying to bike every street in my city,
-- building a silly web 2.0-style site for a vintage mountain bike shop (@ [boomboombikeroom.com](https://boomboombikeroom.com) !),
-- helping non-tech-savvy people learn how to use their computers,
-- designing fun flyers for local events & businesses,
-- watching every tom hanks movie, 
-- building&mdash;with some help&mdash;a cake suspension system to try to get a 3-tiered cake down a mountain biking course,
+- trying to bike every street in my city
+- building&mdash;with some help&mdash;a cake suspension system to try to get a 3-tiered cake down a mountain biking course
+- building a silly web 2.0-style site for a vintage mountain bike shop @ [boomboombikeroom.com](https://boomboombikeroom.com) !
+- helping non-tech-savvy people learn how to use their computers
+- designing fun flyers for local events & businesses
 - doing my part to bring people together! 
 
