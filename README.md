@@ -16,7 +16,7 @@ I hope you’ll come check out what we’re up to!
 Other than that, currently: <br>
 - trying to bike every street in my city
 - building&mdash;with some help&mdash;a cake suspension system to try to get a 3-tiered cake down a mountain biking course
-- creating a silly web 2.0-style site for a vintage mountain bike shop @ [boomboombikeroom.com](https://boomboombikeroom.com) !
+- creating a nostalgic, web 2.0-style site for a vintage mountain bike shop @ [boomboombikeroom.com](https://boomboombikeroom.com) !
 - helping non-tech-savvy people learn how to use their computers
 - designing fun flyers for local events & businesses
 - doing my part to bring people together! 
