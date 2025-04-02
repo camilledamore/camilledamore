@@ -13,8 +13,7 @@ I hope you’ll come check out what we’re up to!
 <br><br>
 ### ☻
 
-Other than that, <br>
-currently:
+Other than that, currently: <br>
 - trying to bike every street in my city
 - building&mdash;with some help&mdash;a cake suspension system to try to get a 3-tiered cake down a mountain biking course
 - building a silly web 2.0-style site for a vintage mountain bike shop @ [boomboombikeroom.com](https://boomboombikeroom.com) !
