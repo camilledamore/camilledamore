@@ -6,8 +6,7 @@ a decentralized social media platform that values transparency, data privacy, an
 <Br>
 Social media companies are notorious for putting the objectives of those who pay them first over the mental well-being of their consumers.  
 
-At frequency.app, we aim to give people control over their digital environment&mdash;to make social media as mindful or as distracting as one would like it to be.  
-We want to give people the option to have a private, distraction-free, ad-free, recommender-algorithm-free, data tracking-to-be-sold-to-third-parties-free experience.  
+At frequency.app, we aim to give people control over their digital environment&mdash;to make social media as one would like it to be.  
 
 I hope you’ll come check out what we’re up to!
 <br><br>
