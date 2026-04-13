@@ -1,4 +1,4 @@
-# Hello! ✿
+# Hey, I'm Camille! ✿
 
 
 Current Work & Projects: <br>
